@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Regla",
+    "price": "120",
+    "thumbnail": "https://cdn-icons-png.flaticon.com/512/3277/3277333.png"
+  },
+  {
+    "id": 2,
+    "title": "Tijera",
+    "price": "95",
+    "thumbnail": "https://cdn-icons-png.flaticon.com/512/3976/3976545.png"
+  },
+  {
+    "id": 3,
+    "title": "Resaltador",
+    "price": "215",
+    "thumbnail": "https://cdn-icons-png.flaticon.com/512/1164/1164724.png"
+  }
+]
